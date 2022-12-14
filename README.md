@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/thedanielfactor"><img src="https://api.daily.dev/devcards/040b3d15ed9945fba50b663eaa8bcea3.png?r=kax" width="400" alt="Raymond Doran's Dev Card"/></a>
 
 <!--
 **thedanielfactor/thedanielfactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
