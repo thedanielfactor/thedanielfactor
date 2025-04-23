@@ -29,8 +29,15 @@ With nearly 30 years in software development, I’ve built, broken, and reimagin
 ```ts
 const stack = {
   frontend: ["React", "TypeScript", "Next.js", "Tailwind"],
-  backend: ["Node.js", "GraphQL", "MongoDB", "AWS (CDK, Lambda, OpenSearch)"],
-  tools: ["Docker", "GitHub Actions", "Jest", "Storybook"],
+  backend: [
+    "TypeScript",
+    "Node.js",
+    "GraphQL",
+    "Java",
+    "MongoDB",
+    "AWS (CDK, Lambda, SQS, SNS, OpenSearch)",
+  ],
+  tools: ["Postman", "Docker", "GitHub Actions", "Jest", "Storybook"],
 };
 ```
 
