@@ -4,9 +4,18 @@ Senior Software Engineer | Code Whisperer | Dad of 7 | Lifelong Learner | Still 
 
 ---
 
+### 🤣 Daily Dev Joke
+
+<!-- JOKE START -->
+
+> Loading joke...
+
+<!-- JOKE END -->
+
 ## 🧠 Who Am I?
 
 With nearly 30 years in software development, I’ve built, broken, and reimagined more systems than I care to count. I’m the kind of engineer who:
+
 - Thrives on solving hard problems (bonus points if they’re weird and no one else wants ‘em).
 - Loves learning new tech and teaching it to others.
 - Will dig into a GraphQL resolver, an AWS CDK stack, and a tailwind config
@@ -19,21 +28,20 @@ With nearly 30 years in software development, I’ve built, broken, and reimagin
 
 ```ts
 const stack = {
-  frontend: ['React', 'TypeScript', 'Next.js', 'Tailwind'],
-  backend: ['Node.js', 'GraphQL', 'MongoDB', 'AWS (CDK, Lambda, OpenSearch)'],
-  tools: ['Docker', 'GitHub Actions', 'Jest', 'Storybook'],
-}
+  frontend: ["React", "TypeScript", "Next.js", "Tailwind"],
+  backend: ["Node.js", "GraphQL", "MongoDB", "AWS (CDK, Lambda, OpenSearch)"],
+  tools: ["Docker", "GitHub Actions", "Jest", "Storybook"],
+};
 ```
+
 ## 🔥 In Progress Projects
 
 📝 **Old Dog, New Flex** – My blog chronicling new skills, side quests, and mid-life full-stack rants.
 
 ## 🤝 Let’s Connect
+
 🔗 [LinkedIn](https://www.linkedin.com/public-profile/settings)
 
 💬 Email: raymond@raymonddoran.com
 
 <a href="https://app.daily.dev/thedanielfactor"><img src="https://api.daily.dev/devcards/040b3d15ed9945fba50b663eaa8bcea3.png?r=kax" width="400" alt="Raymond Doran's Dev Card"/></a>
-
-
-
