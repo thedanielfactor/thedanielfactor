@@ -7,9 +7,7 @@ Senior Software Engineer | Code Whisperer | Dad of 7 | Lifelong Learner | Still 
 ### 🤣 Daily Dev Joke
 
 <!-- JOKE START -->
-
-> Loading joke...
-
+> To understand recursion, you must first understand recursion.
 <!-- JOKE END -->
 
 ## 🧠 Who Am I?
