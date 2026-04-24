@@ -7,7 +7,7 @@ Senior Software Engineer | Code Whisperer | Dad of 7 | Lifelong Learner | Still 
 ### 🤣 Daily Dev Joke
 
 <!-- JOKE START -->
-> I told my code to stop running... but it just kept throwing exceptions.
+> Why do Java developers wear glasses? Because they don't C#.
 <!-- JOKE END -->
 
 ## 🧠 Who Am I?
