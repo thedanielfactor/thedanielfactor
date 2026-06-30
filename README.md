@@ -7,7 +7,7 @@ Senior Software Engineer | Code Whisperer | Dad of 7 | Lifelong Learner | Still 
 ### 🤣 Daily Dev Joke
 
 <!-- JOKE START -->
-> To understand recursion, you must first understand recursion.
+> I told my code to stop running... but it just kept throwing exceptions.
 <!-- JOKE END -->
 
 ## 🧠 Who Am I?
