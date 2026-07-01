@@ -7,7 +7,7 @@ Senior Software Engineer | Code Whisperer | Dad of 7 | Lifelong Learner | Still 
 ### 🤣 Daily Dev Joke
 
 <!-- JOKE START -->
-> I told my code to stop running... but it just kept throwing exceptions.
+> Why do programmers prefer dark mode? Because light attracts bugs.
 <!-- JOKE END -->
 
 ## 🧠 Who Am I?
